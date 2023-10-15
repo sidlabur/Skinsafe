@@ -23,3 +23,12 @@ The project has three main components: UI/UX design, front-end development, and 
 
 
 ## Future Plans
+
+
+##How to run frontend:
+- clone repo to local
+- cd into Test-2/my-app
+- run the following commands:
+    - npm install
+    - npm run ios
+- prerequisites: have xcode to emulate an ios device, download expo go and scan the qr code generated to run the app on your phone
