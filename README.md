@@ -25,7 +25,7 @@ The project has three main components: UI/UX design, front-end development, and 
 ## Future Plans
 
 
-##How to run frontend:
+## How to run frontend:
 - clone repo to local
 - cd into Test-2/my-app
 - run the following commands:
